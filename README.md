@@ -1,7 +1,3 @@
-Based on the project documents, here are the guidelines and workflow for implementing RAG using Hugging Face embedding models, along with how to integrate it into your core Node.js and MySQL system:
-
----
-
 ### **Guidelines & Process Overview**
 
 1. **Modular Design:**
